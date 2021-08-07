@@ -1,5 +1,7 @@
 # MicroAuth
 
+TODO: Migrate to use Mac Catalyst
+
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/d-falck/MicroAuth) ![GitHub all releases](https://img.shields.io/github/downloads/d-falck/MicroAuth/total) ![Platform](https://img.shields.io/badge/platform-macos-lightgrey) ![macOS version](https://img.shields.io/badge/macos-%3E%3D10.15-blue) ![GitHub](https://img.shields.io/github/license/d-falck/MicroAuth)
 
 **A tiny authenticator that lives in the menu bar and in a customisable keyboard shortcut**
